@@ -13,5 +13,5 @@ Asiakasyritys ei ole antanut valmista käyttöliittymäkuvausta, eikä vaadi tie
 
 Verkon analysointi ZenMAP, NESSUS ja Wireshark -ohjelmilla.
 
-Harjoitustyön  tarkoituksena  oli  tuottaa  raportti  kurssin  ASECyberLab-tietokoneharjoituksista  3  ja  4.  Harjoitusten  yhteisenä  tavoitteena  oli  muodostaa mahdollisimman selkeä käsitys tutkittavasta ICS-verkkosegmentistä ja listata verkosta löytyneet käyttöjärjestelmät, laitteet, ohjelmistot, versionumerot ja haavoittuvuudet.
+Harjoitustyön  tarkoituksena oli muodostaa mahdollisimman selkeä käsitys tutkittavasta ICS-verkkosegmentistä ja listata verkosta löytyneet käyttöjärjestelmät, laitteet, ohjelmistot, versionumerot ja haavoittuvuudet.
 
